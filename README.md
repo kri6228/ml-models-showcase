@@ -13,7 +13,7 @@ one algorithm at a time.
 ### Supervised Learning
 | # | Algorithm | Dataset | Accuracy | Notebook |
 |---|-----------|---------|----------|---------|
-| 01 | Linear Regression | California Housing |  R²:0.57 | [link](./01_supervised/01_linear_regression/) |
+| 01 | Linear Regression | California Housing |  R²=0.57 | [link](./01_supervised/01_linear_regression/) |
 | 02 | Logistic Regression | Breast Cancer | ~97% | [link](./01_supervised/02_logistic_regression/) |
 | 03 | Decision Tree | Coming soon | - | - |
 | 04 | Random Forest | Coming soon | - | - |
@@ -40,8 +40,8 @@ All models tested on same dataset → [View Notebook](./04_model_comparison/)
 Python • Scikit-learn • TensorFlow • Pandas • NumPy • Matplotlib
 
 ## 📈 Progress
-- [ ] Linear Regression
-- [ ] Logistic Regression
+- [x] Linear Regression
+- [x] Logistic Regression
 - [ ] Decision Tree
 - [ ] Random Forest
 - [ ] SVM
