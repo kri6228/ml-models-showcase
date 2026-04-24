@@ -13,8 +13,8 @@ one algorithm at a time.
 ### Supervised Learning
 | # | Algorithm | Dataset | Accuracy | Notebook |
 |---|-----------|---------|----------|---------|
-| 01 | Linear Regression | Coming soon | - | - |
-| 02 | Logistic Regression | Coming soon | - | - |
+| 01 | Linear Regression | California Housing |  R²:0.57 | [link](./01_supervised/01_linear_regression/) |
+| 02 | Logistic Regression | Breast Cancer | ~97% | [link](./01_supervised/02_logistic_regression/) |
 | 03 | Decision Tree | Coming soon | - | - |
 | 04 | Random Forest | Coming soon | - | - |
 | 05 | SVM | Coming soon | - | - |

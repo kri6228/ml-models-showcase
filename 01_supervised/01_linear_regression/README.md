@@ -15,7 +15,7 @@ like income, house age, location etc.
 ## 📁 Files in This Folder
 | File | Description |
 |------|-------------|
-| `linear_regression.ipynb` | Full notebook — EDA, training, evaluation |
+| `01_linear_regression.ipynb` | Full notebook — EDA, training, evaluation |
 | `linear_regression.pkl` | Trained model ready to use |
 
 ## ⚡ Quickstart — Use the Model Directly
