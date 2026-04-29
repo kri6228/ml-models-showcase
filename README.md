@@ -45,7 +45,7 @@ Python • Scikit-learn • TensorFlow • Pandas • NumPy • Matplotlib
 - [x] Decision Tree
 - [x] Random Forest
 - [x] SVM
-- [ ] KNN
+- [X] KNN
 - [ ] Naive Bayes
 - [ ] KMeans
 - [ ] PCA
