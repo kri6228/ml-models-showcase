@@ -18,7 +18,7 @@ one algorithm at a time.
 | 03 | Decision Tree | Iris dataset | ~100%| [link](./01_supervised/03_decision_tree/) |
 | 04 | Random Forest | Titanic dataset | ~82% | [link](./01_supervised/04_random_forest/) |
 | 05 | SVM | Wine dataset | ~100% | [link](./01_supervised/05_svm/) |
-| 06 | KNN | Coming soon | - | - |
+| 06 | KNN | Digits dataset | ~97% | [link](./01_supervised/06_knn/) |
 | 07 | Naive Bayes | Coming soon | - | - |
 
 ### Unsupervised Learning
