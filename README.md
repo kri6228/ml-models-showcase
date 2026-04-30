@@ -19,7 +19,7 @@ one algorithm at a time.
 | 04 | Random Forest | Titanic dataset | ~82% | [link](./01_supervised/04_random_forest/) |
 | 05 | SVM | Wine dataset | ~100% | [link](./01_supervised/05_svm/) |
 | 06 | KNN | Digits dataset | ~97% | [link](./01_supervised/06_knn/) |
-| 07 | Naive Bayes | Coming soon | - | - |
+| 07 | Naive Bayes | 20 Newsgroups (Text Classification) | ~90% | [link](./01_supervised/07_naive_bayes/) |
 
 ### Unsupervised Learning
 | # | Algorithm | Dataset | Notebook |
@@ -46,7 +46,7 @@ Python • Scikit-learn • TensorFlow • Pandas • NumPy • Matplotlib
 - [x] Random Forest
 - [x] SVM
 - [X] KNN
-- [ ] Naive Bayes
+- [x] Naive Bayes
 - [ ] KMeans
 - [ ] PCA
 - [ ] ANN
