@@ -24,7 +24,7 @@ one algorithm at a time.
 ### Unsupervised Learning
 | # | Algorithm | Dataset | Notebook |
 |---|-----------|---------|---------|
-| 08 | K-Means Clustering | Coming soon | - |
+| 08 | K-Means Clustering | Mall Customer segmentation | [link](./02_unsupervised/01_kmeans/) |
 | 09 | PCA | Coming soon | - |
 
 ### Neural Networks
@@ -47,7 +47,7 @@ Python • Scikit-learn • TensorFlow • Pandas • NumPy • Matplotlib
 - [x] SVM
 - [X] KNN
 - [x] Naive Bayes
-- [ ] KMeans
+- [x] KMeans
 - [ ] PCA
 - [ ] ANN
 - [ ] CNN
