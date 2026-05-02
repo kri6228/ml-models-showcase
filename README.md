@@ -25,7 +25,7 @@ one algorithm at a time.
 | # | Algorithm | Dataset | Notebook |
 |---|-----------|---------|---------|
 | 08 | K-Means Clustering | Mall Customer segmentation | [link](./02_unsupervised/01_kmeans/) |
-| 09 | PCA | Coming soon | - |
+| 09 | PCA | Breast Cancer | [link](./02_unsupervised/02_pca/) |
 
 ### Neural Networks
 | # | Algorithm | Dataset | Notebook |
@@ -48,7 +48,7 @@ Python • Scikit-learn • TensorFlow • Pandas • NumPy • Matplotlib
 - [X] KNN
 - [x] Naive Bayes
 - [x] KMeans
-- [ ] PCA
+- [x] PCA
 - [ ] ANN
 - [ ] CNN
 - [ ] Model Comparison
