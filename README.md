@@ -30,7 +30,7 @@ one algorithm at a time.
 ### Neural Networks
 | # | Algorithm | Dataset | Notebook |
 |---|-----------|---------|---------|
-| 10 | ANN Basics | Coming soon | - |
+| 10 | ANN Basics | Churn Modelling (Bank Customer) | [link](./03_neural_networks/01_ann/) |
 | 11 | CNN Basics | Coming soon | - |
 
 ## 🏆 Model Comparison
@@ -49,6 +49,6 @@ Python • Scikit-learn • TensorFlow • Pandas • NumPy • Matplotlib
 - [x] Naive Bayes
 - [x] KMeans
 - [x] PCA
-- [ ] ANN
+- [x] ANN
 - [ ] CNN
 - [ ] Model Comparison
