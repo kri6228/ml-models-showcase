@@ -31,7 +31,7 @@ one algorithm at a time.
 | # | Algorithm | Dataset | Notebook |
 |---|-----------|---------|---------|
 | 10 | ANN Basics | Churn Modelling (Bank Customer) | [link](./03_neural_networks/01_ann/) |
-| 11 | CNN Basics | Coming soon | - |
+| 11 | CNN Basics | CIFAR-10 (60,000 color images, 10 classes) | [link](./03_neural_networks/02_cnn/) |
 
 ## 🏆 Model Comparison
 All models tested on same dataset → [View Notebook](./04_model_comparison/)
@@ -50,5 +50,5 @@ Python • Scikit-learn • TensorFlow • Pandas • NumPy • Matplotlib
 - [x] KMeans
 - [x] PCA
 - [x] ANN
-- [ ] CNN
+- [x] CNN
 - [ ] Model Comparison
